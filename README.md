@@ -9,7 +9,7 @@ pyyaml
 ## Python version
 3.13.0
 
-### Install
+### Install the Viewer
 - Clone this repository.
 - Go to the Viewer folder.
 - Open a Terminal.
