@@ -2,9 +2,9 @@
 Editor and Viewer
 
 ## Requirements
-wxPython
-python-vlc
-pyyaml
+- wxPython
+- python-vlc
+- pyyaml
 
 ## Python version
 3.13.0
