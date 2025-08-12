@@ -33,3 +33,13 @@ title_*: # The * must be replaced by a number
   title_X: center # X location for this text (not yet implemented)
   title_Y: bottom # Y location for this text (not yet implemented)
 ```
+
+### Resources structure
+```
+resources
+  images
+    'any image files supported by python'
+  videos
+    'any video files with codecs supported by vlc'
+  media.yml
+```
