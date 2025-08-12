@@ -43,3 +43,14 @@ resources
     'any video files with codecs supported by vlc'
   media.yml
 ```
+
+## How the viewer works?
+- Go to the Viewer folder.
+- Open a terminal.
+- Type the command ```env/Scripts/activate``` on Windows or ```env/bin/activate``` and press enter.
+- Type the command ```python main.py``` and press enter.
+- A frame appears in the screen, move the mouse and select a video with a left click.
+- The video is launched.
+- You can pause/play the video by clicking anywhere of the menu background image or press SPACE.
+- You can quit the video by pressing ESCAPE.
+- You can select again and again another item and cycle the process like you want.
