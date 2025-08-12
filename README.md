@@ -9,6 +9,18 @@ pyyaml
 ## Python version
 3.13.0
 
+### Install
+- Clone this repository.
+- Go to the Viewer folder.
+- Open a Terminal.
+- Type ```python -m venv env``` and press enter.
+- Type ```env/Scripts/activate``` on Windows or ```env/bin/activate``` and press enter.
+- Type ```pip install wxPython``` and press enter.
+- Type ```pip install python-vlc``` and press enter.
+- Type ```pip install PyYAML``` and press enter.
+- Refer to the section below to work with the viewer
+
+## Data to deal with it
 ### YAML Fields
 ```yaml
 main_config:
